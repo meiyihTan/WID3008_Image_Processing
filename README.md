@@ -19,7 +19,7 @@ Identification systems which is we use for unlocking our devices have struggled 
 We will show and build system with the most modern state-of-the-art methods  possible to solve the task of face recognition with medical masks. 
 In order to do that, we will make such augmentations that transform our initial training dataset into persons wearing medical masks.
 
-![Trump](https://cdn-images-1.medium.com/max/1200/1*qFYQo4nqwc-wE_EseswvqA.png)
+![Trump](https://drive.google.com/uc?export=view&id=1lWUSRfauRNkJ1F71z1xP7lKl5DsUZOcM)
 
 ## Process of facial keypoints extraction
 ![Keypoints](https://drive.google.com/uc?export=view&id=1W_lPnFr3VuCyrSEBSJOnosiGPUzjSY4I)
@@ -28,7 +28,7 @@ In order to do that, we will make such augmentations that transform our initial 
 ![Triangulation](https://cdn-images-1.medium.com/max/1200/1*-KyFG7mHQnh9vdqkkpxyDA.png)
 
 ## Medical mask matching
-![Mask](https://drive.google.com/uc?export=view&id=1lWUSRfauRNkJ1F71z1xP7lKl5DsUZOcM)
+![Mask](https://cdn-images-1.medium.com/max/1200/1*sWTq9BBCbKIea7tNgUh7Vg.png)
 
 ## Situation with the face rotation
 
