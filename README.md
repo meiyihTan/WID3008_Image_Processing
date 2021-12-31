@@ -4,7 +4,7 @@
 The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/gist/poltavski/23f242d5e50de9ddd1ade0d7baf8fd83/face_recognition_with_masks.ipynb).
 
 ### Test medical masks augmentations
-You can also test masked faces pipeline from this [colab notebook](https://colab.research.google.com/gist/poltavski/3182c17e317627ae478c46fd710603a5/test_masked_faces_pipeline.ipynb)
+You can also test masked faces pipeline from this [colab notebook](https://colab.research.google.com/drive/1CCleAFWFaD_8F3dTWJeCrCb_Wamrmoe1?usp=sharing)
 
 # Article abstract
 ## Struggle
