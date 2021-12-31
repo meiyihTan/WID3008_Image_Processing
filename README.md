@@ -1,14 +1,18 @@
 # WID3008 Image Processing Assignment - Face recognition with medical masks
 
+## Objectives
+1.	To recognize the identity of a masked individual.
+2.	To evaluate the accuracy of the facial recognition net.
+
 ## Pipeline with training face recognition
-The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/gist/poltavski/23f242d5e50de9ddd1ade0d7baf8fd83/face_recognition_with_masks.ipynb).
+The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/drive/1zqF0Zt71xhiP-2u25SzkDmc5CMdx4t1b?usp=sharing).
 
 ### Test medical masks augmentations
 You can also test masked faces pipeline from this [colab notebook](https://colab.research.google.com/drive/1CCleAFWFaD_8F3dTWJeCrCb_Wamrmoe1?usp=sharing)
 
-# Article abstract
-## Struggle
+## To overcome
 Identification systems which is we use for unlocking our devices have struggled with medical masks appearing on human faces.
+
 
 
 ## Solution
@@ -18,7 +22,7 @@ In order to do that, we will make such augmentations that transform our initial 
 ![Trump](https://cdn-images-1.medium.com/max/1200/1*qFYQo4nqwc-wE_EseswvqA.png)
 
 ## Process of facial keypoints extraction
-![Keypoints](https://cdn-images-1.medium.com/max/1200/1*-W7gdhRji16sBgqERt-S5Q.png)
+![Keypoints](https://drive.google.com/file/d/1w3gBJndlqGj-BX7E6WF9aVncKa0NOYJn/view?usp=sharing)
 
 ## Triangulation process
 ![Triangulation](https://cdn-images-1.medium.com/max/1200/1*-KyFG7mHQnh9vdqkkpxyDA.png)
@@ -31,6 +35,9 @@ In order to do that, we will make such augmentations that transform our initial 
 Proposed solution also handles the situation with the face rotation, as medical masks database is stored in json with the calculated parameter of rotation, which allow us to match images with face rotation for only with those masks that are falling in concrete interval of rotation for given face.
 
 ![Rotation](https://cdn-images-1.medium.com/max/1200/1*p0wp1UTrM5Wj3RsgDpZ9vg.png)
+
+## System Design
+![Rotation](https://drive.google.com/file/d/16LIqe2cSkWBNJWgoTONaqxx_ivQp8ZMs/view?usp=sharing)
 
 ## ArcFace
 
