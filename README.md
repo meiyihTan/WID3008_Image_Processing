@@ -1,7 +1,7 @@
 # WID3008 Image Processing Assignment - Face recognition with medical masks
 
 ## Objectives
-1.	To recognize the identity of a masked individual.
+1.	To recognize the face location of a masked individual.
 2.	To evaluate the accuracy of the facial recognition net.
 
 ## Pipeline with training face recognition
