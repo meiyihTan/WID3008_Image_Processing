@@ -22,13 +22,13 @@ In order to do that, we will make such augmentations that transform our initial 
 ![Trump](https://cdn-images-1.medium.com/max/1200/1*qFYQo4nqwc-wE_EseswvqA.png)
 
 ## Process of facial keypoints extraction
-![Keypoints](https://cdn-images-1.medium.com/max/1200/1*-W7gdhRji16sBgqERt-S5Q.png)
+![Keypoints](https://drive.google.com/uc?export=view&id=1W_lPnFr3VuCyrSEBSJOnosiGPUzjSY4I)
 
 ## Triangulation process
 ![Triangulation](https://cdn-images-1.medium.com/max/1200/1*-KyFG7mHQnh9vdqkkpxyDA.png)
 
 ## Medical mask matching
-![Mask](https://cdn-images-1.medium.com/max/1200/1*sWTq9BBCbKIea7tNgUh7Vg.png)
+![Mask](https://drive.google.com/uc?export=view&id=1lWUSRfauRNkJ1F71z1xP7lKl5DsUZOcM)
 
 ## Situation with the face rotation
 
