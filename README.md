@@ -7,7 +7,7 @@
 ## Pipeline with training face recognition
 The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/drive/1zqF0Zt71xhiP-2u25SzkDmc5CMdx4t1b?usp=sharing).
 
-### Test medical masks augmentations
+## Test medical masks augmentations
 You can also test masked faces pipeline from this [colab notebook](https://colab.research.google.com/drive/1CCleAFWFaD_8F3dTWJeCrCb_Wamrmoe1?usp=sharing)
 
 ## To overcome
@@ -37,7 +37,7 @@ Proposed solution also handles the situation with the face rotation, as medical 
 ![Rotation](https://cdn-images-1.medium.com/max/1200/1*p0wp1UTrM5Wj3RsgDpZ9vg.png)
 
 ## System Design
-![Rotation](https://drive.google.com/file/d/16LIqe2cSkWBNJWgoTONaqxx_ivQp8ZMs/view?usp=sharing)
+![Rotation](https://drive.google.com/uc?export=view&id=16LIqe2cSkWBNJWgoTONaqxx_ivQp8ZMs)
 
 ## ArcFace
 
