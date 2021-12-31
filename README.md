@@ -22,7 +22,7 @@ In order to do that, we will make such augmentations that transform our initial 
 ![Trump](https://cdn-images-1.medium.com/max/1200/1*qFYQo4nqwc-wE_EseswvqA.png)
 
 ## Process of facial keypoints extraction
-![Keypoints](https://drive.google.com/file/d/1w3gBJndlqGj-BX7E6WF9aVncKa0NOYJn/view?usp=sharing)
+![Keypoints](https://cdn-images-1.medium.com/max/1200/1*-W7gdhRji16sBgqERt-S5Q.png)
 
 ## Triangulation process
 ![Triangulation](https://cdn-images-1.medium.com/max/1200/1*-KyFG7mHQnh9vdqkkpxyDA.png)
